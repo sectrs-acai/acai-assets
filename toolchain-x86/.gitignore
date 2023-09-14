@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+
+x86_64-unknown-linux-gnu
+tmp
